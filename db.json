@@ -1,0 +1,11 @@
+{
+
+  "current": [
+     { "id": 1,
+     "name": "Stick 3",
+     "cost": "455",
+     "barcode": "95215335",
+     "description": "An Ultrasonic sensor is a device that can measure the distance to an object by using sound waves. It measures distance by sending out a sound wave at a specific frequency and listening for that sound wave to bounce back. By recording the elapsed time between the sound wave being generated and the sound wave bouncing back, it is possible to calculate the distance between the sonar sensor and the object. ",
+     "image": "http://192.168.1.3/photos/stick3.jpg" }
+    ]
+}
